@@ -5,7 +5,7 @@ let b;
 let c;
 let d;
 
-a = leia.questionFloat("Digite o salário bruto: ");
+a = leia.questionFloat("Digite o salario bruto: ");
 b = leia.questionFloat("Digite o adicional noturno: ");
 c = leia.questionFloat("Digite as horas extras: ");
 d = leia.questionFloat("Digite os descontos: ");
